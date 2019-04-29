@@ -1,4 +1,0 @@
-
-# Description #
-
-This add-on is a **Groovy** based **integration test** framework. Tests are Groovy scripts with testcase definitions. The framework is targeted at integration level testing of software supporting a command line interface (CLI) or accessible via groovy scripts. The framework can also be used for unit and integration testing of Java, Groovy, and Gant code. A declarative style simplifies many test scenarios and the full power of Groovy scripting makes more complex test scenarios possible as well. Parallel execution of testcases significantly reduces run time, enabling more frequent use and more timely feedback for continuous integration (CI) environments.
